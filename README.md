@@ -9,12 +9,12 @@
 
   # How to use? 🤔
 
-  Download all files from the this repository.
-  Unpack them in a convenient location.
-  Open Nether.exe.
-  Click the Crypt!!! button and select the file.
-  Done, the file is encrypted! 🔒
-  Feel free to ask if you have any more questions! 😊
+  1. Download all files from the this repository.
+  2. Unpack them in a convenient location.
+  3. Open Nether.exe.
+  4. Click the Crypt!!! button and select the file.
+  5. Done, the file is encrypted! 🔒
+  6. Feel free to ask if you have any more questions! 😊
 
   # Disclaimer❗
   ⚠️ DO NOT USE THIS SCRIPT FOR ILLEGAL PURPOSES ⚠️
